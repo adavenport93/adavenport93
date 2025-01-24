@@ -6,15 +6,15 @@ Now I plan on graduating from Arizona State University with an engineering scien
 I am currently employed as an Engineer at Savannah River Site in South Carolina.
 
 My previous work experience includes:
-Service Support Rep 2 at Unisys
-Client Support Specialist at Augusta University IT Help Desk
-Legal Secretary at the Division of Child Support Services
+-Service Support Rep 2 at Unisys
+-Client Support Specialist at Augusta University IT Help Desk
+-Legal Secretary at the Division of Child Support Services
 
 My computer skills include:
-The Languages: C#, HTML5, CSS3, Java, C++, JavaScript, and Python   
-The Operating Systems: Windows, Linux, and Mac OSX          
-The Databases: Microsoft Access and SQL                     
-The Software: Microsoft Excel, Microsoft PowerPoint, Microsoft Publisher, Microsoft Visual Studio, and Microsoft Word, Visio, and VMWare Workstation
+-The Languages: C#, HTML5, CSS3, Java, C++, JavaScript, and Python   
+-The Operating Systems: Windows, Linux, and Mac OSX          
+-The Databases: Microsoft Access and SQL                     
+-The Software: Microsoft Excel, Microsoft PowerPoint, Microsoft Publisher, Microsoft Visual Studio, and Microsoft Word, Visio, and VMWare Workstation
 
 <!--
 **adavenport93/adavenport93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
