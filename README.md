@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi: All about me!
+## I am one of those people you will never forget.
 
 <!--
 **adavenport93/adavenport93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
